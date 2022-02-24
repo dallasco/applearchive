@@ -20,3 +20,7 @@ a:hover {
 a:active {
 	color: #1DAB9B;
 }
+
+.reflinks {
+	color: lightgray;
+}
