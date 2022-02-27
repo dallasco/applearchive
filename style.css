@@ -1,5 +1,5 @@
 body {
-	background-color: black;
+	background-color: #232527;
 	color: white;
 }
 
@@ -23,4 +23,22 @@ a:active {
 
 .reflinks {
 	color: lightgray;
+}
+
+/* Font Sizing */
+
+p {
+	font-size: 20;
+}
+
+h3 {
+	font-size: 25;
+}
+
+h2 {
+	font-size: 30;
+}
+
+h1 {
+	font-size: 34;
 }
