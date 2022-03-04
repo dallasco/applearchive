@@ -1,21 +1,15 @@
 body {
-	background-color: #232527;
-	color: white;
+	background-color: #22272e;
+	color: #D3D3D3;
+
 }
 
 .mainbody {
-	padding-left: 25px;
-	padding-right: 25px;
+	padding-left: 650px;
+	padding-right: 650px;
 	padding-top: 0px;
-	padding-bottom: 25px;
+	padding-bottom: 0px;
 }
-
-.heading {
-	background-color: black;
-}
-
-
-
 
 
 
@@ -23,7 +17,7 @@ body {
 /* Link Coloring */
 
 a:link {
-	color: #1ad8ed;
+	color: #f0fcfc;
 }
 
 a:visited {
@@ -48,30 +42,35 @@ a:active {
 
 p {
 	font-size: 20px;
-	text-align: center;
+	text-align: left;
 
 }
 
 h1 {
 	font-size: 35px;
-	text-align: center;
+	text-align: left;
+	color: #AEFFFA;
 }
 
 h2 {
 	font-size: 30px;
-	text-align: center;
+	text-align: left;
 }
 
 h3 {
 	font-size: 25px;
-	text-align: center;
+	text-align: left;
 }
 
 h4 {
 	font-size: 15px;
-	text-align: center;
+	text-align: left;
 }
 
 footer {
-	text-align: center;
+	text-align: left;
+	padding-left: 650px;
+	padding-right: 650px;
+	padding-top: 25px;
+	padding-bottom: 0px;
 }
