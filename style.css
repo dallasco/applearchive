@@ -3,6 +3,23 @@ body {
 	color: white;
 }
 
+.mainbody {
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 0px;
+	padding-bottom: 25px;
+}
+
+.heading {
+	background-color: black;
+}
+
+
+
+
+
+
+
 /* Link Coloring */
 
 a:link {
@@ -25,20 +42,36 @@ a:active {
 	color: lightgray;
 }
 
-/* Font Sizing */
+
+
+/* Formatting */
 
 p {
-	font-size: 20;
-}
+	font-size: 20px;
+	text-align: center;
 
-h3 {
-	font-size: 25;
-}
-
-h2 {
-	font-size: 30;
 }
 
 h1 {
-	font-size: 34;
+	font-size: 35px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 30px;
+	text-align: center;
+}
+
+h3 {
+	font-size: 25px;
+	text-align: center;
+}
+
+h4 {
+	font-size: 15px;
+	text-align: center;
+}
+
+footer {
+	text-align: center;
 }
