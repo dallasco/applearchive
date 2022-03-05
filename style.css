@@ -1,28 +1,37 @@
+body {
+	background-color: #22272e;
+	color: #D3D3D3;
+	max-width: 100%;
+}
+
 .header {
-	padding-top: 1%;
+	padding-top: 0.5%;
 	padding-left: 10%;
 	padding-right: 10%;
 	padding-bottom: 2%;
   	text-align: center;
   	background: #1abc9c;
   	color: white;
-  	font-size: 2vw;
+  	font-size: 2.1vw;
   	max-height: 30vh;
 }
 
-body {
-	background-color: #22272e;
-	color: #D3D3D3;
+.mainbody {
+	padding-left: 20%;
+	padding-right: 20%%;
+	padding-top: 2%;
+	padding-bottom: 0%;
 	max-width: 100%;
-
+	font-size: 3vh;
 }
 
-.mainbody {
-	padding-left: 25%;
-	padding-right: 25%;
-	padding-top: 0px;
-	padding-bottom: 0px;
+footer {
+	padding-left: 20%;
+	padding-right: 20%%;
+	padding-top: 2%;
+	padding-bottom: 0%;
 	max-width: 100%;
+	font-size: 2vh;
 }
 
 img {
@@ -56,11 +65,3 @@ a:active {
 
 
 
-footer {
-	text-align: left;
-	padding-left: 25%;
-	padding-right: 25%;
-	padding-top: 25px;
-	padding-bottom: 0px;
-	max-width: 100%;
-}
