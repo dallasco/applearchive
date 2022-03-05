@@ -5,14 +5,14 @@ body {
 }
 
 .header {
-	padding-top: 0.1vw;
+	padding-top: 0.05vw;
 	padding-left: 5vw;
 	padding-right: 5vw;
 	padding-bottom: 1vw;
   	text-align: center;
   	background: #1abc9c;
   	color: white;
-  	font-size: 2.3vw;
+  	font-size: 2.4vw;
   	max-height: 30vh;
 }
 
