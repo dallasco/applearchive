@@ -1,11 +1,13 @@
 .header {
-	padding: 60px;
+	padding-top: 1%;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom: 2%;
   	text-align: center;
   	background: #1abc9c;
   	color: white;
-  	font-size: 30px;
-  	max-width: 100%;
-  	max-height: 60px;
+  	font-size: 2vw;
+  	max-height: 30vh;
 }
 
 body {
