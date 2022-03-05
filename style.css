@@ -25,7 +25,7 @@ body {
 	font-size: 2.7vh;
 }
 
-footer {
+.footer {
 	padding-left: 20%;
 	padding-right: 20%;
 	padding-top: 2%;
@@ -33,6 +33,11 @@ footer {
 	max-width: 100%;
 	font-size: 2vh;
 }
+
+h2 {
+	color: white;
+}
+
 
 img {
 	max-width: 100%;
