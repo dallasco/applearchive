@@ -26,10 +26,10 @@ body {
 }
 
 .footer {
-	padding-left: 20%;
-	padding-right: 20%;
-	padding-top: 2%;
-	padding-bottom: 0%;
+	padding-left: 17vw;
+	padding-right: 17vw;
+	padding-top: 2vh;
+	padding-bottom: 1vh;
 	max-width: 100%;
 	font-size: 2vh;
 }
