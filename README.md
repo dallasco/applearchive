@@ -3,4 +3,4 @@
 https://dallaslittle.github.io/applearchive
 
 ##### Note: Website is currently prioritized for mobile viewing. 
-##### Desktop viewing updates coming soon.
+##### Desktop update coming soon.
