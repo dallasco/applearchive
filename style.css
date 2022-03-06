@@ -17,8 +17,8 @@ body {
 }
 
 .mainbody {
-	padding-left: 17vw;
-	padding-right: 17vw;
+	padding-left: 13vw;
+	padding-right: 13vw;
 	padding-top: 2vh;
 	padding-bottom: 1vh;
 	max-width: 100%;
@@ -26,8 +26,8 @@ body {
 }
 
 .footer {
-	padding-left: 17vw;
-	padding-right: 17vw;
+	padding-left: 13vw;
+	padding-right: 13vw;
 	padding-top: 2vh;
 	padding-bottom: 1vh;
 	max-width: 100%;
