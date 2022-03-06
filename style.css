@@ -25,6 +25,11 @@ body {
 	font-size: 2.7vh;
 }
 
+.responsive {
+	width: 100%;
+	height: auto;
+}
+
 .footer {
 	padding-left: 13vw;
 	padding-right: 13vw;
