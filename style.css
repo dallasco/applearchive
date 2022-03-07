@@ -1,73 +1,68 @@
 body {
-	background-color: #22272e;
-	color: #D3D3D3;
-	max-width: 100%;
+    background-color: #22272e;
+    color: #D3D3D3;
+    max-width: 100%;
 }
 
 .header {
-	padding-top: 0.05vw;
-	padding-left: 5vw;
-	padding-right: 5vw;
-	padding-bottom: 2.2vw;
-  	text-align: center;
-  	background: #1abc9c;
-  	color: white;
-  	font-size: 4vw;
-  	max-height: 30vh;
+    padding-top: 0.05vw;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-bottom: 2.2vw;
+    text-align: center;
+    background: #0053a1;
+    color: white;
+    font-size: 4vw;
+    max-height: 30vh;
 }
 
 .mainbody {
-	padding-left: 10vw;
-	padding-right: 10vw;
-	padding-top: 2vh;
-	padding-bottom: 1vh;
-	max-width: 100%;
-	font-size: 2.7vh;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    padding-top: 2vh;
+    padding-bottom: 1vh;
+    max-width: 100%;
+    font-size: 2.7vh;
 }
 
 .responsive {
-	width: 100%;
-	height: auto;
+    width: 100%;
+    height: auto;
 }
 
 .footer {
-	padding-left: 10vw;
-	padding-right: 10vw;
-	padding-top: 2vh;
-	padding-bottom: 1vh;
-	max-width: 100%;
-	font-size: 2vh;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    padding-top: 2vh;
+    padding-bottom: 1vh;
+    background: #0053a1;
+    max-width: 100%;
+    font-size: 2vh;
 }
-
 
 img {
-	max-width: 100%;
+    max-width: 100%;
 }
-
 
 
 /* Link Coloring */
 
 a:link {
-	color: #f0fcfc;
+    color: #f0fcfc;
 }
 
 a:visited {
-	color: #C3BBBA;
+    color: #C3BBBA;
 }
 
 a:hover {
-	color: #3CFFE9;
+    color: #3CFFE9;
 }
 
 a:active {
-	color: #1DAB9B;
+    color: #1DAB9B;
 }
 
 .reflinks {
-	color: lightgray;
+    color: lightgray;
 }
-
-
-
-
