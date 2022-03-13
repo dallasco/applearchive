@@ -40,10 +40,14 @@ body {
     font-size: 2vh;
 }
 
+.ota {
+    height: 50%;
+    width: 50%;
+}
+
 img {
     max-width: 100%;
 }
-
 
 /* Link Coloring */
 
