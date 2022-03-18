@@ -1,0 +1,85 @@
+
+body {
+    background-color: #0d1117;
+    color: #D3D3D3;
+    max-width: 100%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.header {
+    text-align: center;
+    background: #5a00c2;
+    color: white;
+    padding: 0.1em;
+    font-size: 4vw;
+    border-radius: 0.25em;
+    box-shadow: 0px 10px 20px #4e00a788;
+    margin-bottom: 0.30em;
+}
+
+.mainbody {
+    padding: 5vh;
+    max-width: 100%;
+    font-size: 2vh;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.footer {
+    font-size: 1.4vh;
+    padding-left: 10vw;
+    padding: 2vh;
+    background: #000000;
+}
+
+.ota {
+    height: 300;
+    width: 600;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 0.25em;
+    box-shadow: 1px 5px 10px #000000;
+}
+
+/* Link Coloring */
+
+a{  
+    font-weight: 500;
+    border-bottom: 0.25em solid rgb(20, 112, 233);
+    color: #ffffff;
+    text-decoration: none;
+    transition: 0.25s ease-in-out;
+}
+
+a:hover {
+    border-bottom: 0.6em solid rgb(20, 112, 233);
+    color: #ffffff;
+}
+
+a:active {
+    color: #1DAB9B;
+}
+
+.reflinks {
+    color: lightgray;
+}
+
+/* cool h2 */
+h2{
+    background: linear-gradient(90deg, #893fff 0%, #53b2ff 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* big screen */
+@media only screen and (min-width: 1200px) {
+    .header {
+        font-size: 2vw;
+    }
+}
